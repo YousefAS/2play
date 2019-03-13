@@ -1,0 +1,8 @@
+owner=449339893626306563
+prefix=2
+game=2play ||Calin Server
+stayinchannel=true
+songinstatus=false
+token=NTU1NDI4MDQzMDIwMTczMzI1.D2rCXQ.yCcXfC0nDt-PnDhIVUx_hkoFavc
+
+
